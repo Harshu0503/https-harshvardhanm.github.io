@@ -1,2 +1,2 @@
-# https-harshvardhanm.github.io
-My Resume from complete Web Development
+# Digital_26-05-24
+Unlock the secrets to creating a dynamic, animated digital agency landing page with this comprehensive tutorial.
